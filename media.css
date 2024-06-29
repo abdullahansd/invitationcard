@@ -1,0 +1,38 @@
+@media(max-width:768px) {
+
+    #main-area,
+    #main-area1 {
+        width: 100%;
+        height: 800px;
+        margin: 0 auto;
+    }
+
+
+    .card {
+        background-size: 100% 100%;
+    }
+
+    .cardup h1 {
+        font-size: 34px;
+    }
+
+    .cardbet h2 {
+        font-size: 45px;
+    }
+
+    .cardbot h5 {
+        font-size: 20px;
+        font-weight: 200;
+    }
+
+    .cardbot ul li {
+        font-size: 20px;
+        margin-top: 35px;
+    }
+
+    .cardbot h6 {
+        font-size: 20px;
+        font-weight: 200;
+    }
+
+}
